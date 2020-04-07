@@ -1,7 +1,7 @@
 {
   "name": "package_for_music_player_project",
   "scripts": {
-    "start": "node server.js"
+    "start": "node 11_express_server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
